@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <RecipeDef Name="SurgeryCF_Dis" ParentName="SurgeryFlesh" Abstract="True">
     <surgerySuccessChanceFactor>1.35</surgerySuccessChanceFactor>
@@ -10,7 +10,7 @@
   <!-- ============================== REPAIR BODY PARTS ============================== -->
   <RecipeDef ParentName="SurgeryCF_Dis">
     <defName>RepairBodyPart_CF</defName>
-    <label>&lt;color=#80ffd2&gt;Repair body part&lt;/color&gt;</label>
+    <label>&lt;color=#80ffd2>Repair body part&lt;/color></label>
     <description>Repair animal body part using medicine and synthread</description>
     <workerClass>Recipe_InstallNaturalBodyPart</workerClass>
     <jobString>Repairing body part</jobString>
@@ -92,84 +92,84 @@
   </RecipeDef>
   <RecipeDef ParentName="SurgeryCF_Dis_Heal">
     <defName>CureBodyPartQ_CF</defName>
-    <label>&lt;color=#d4ffa3&gt;Heal body part&lt;/color&gt;</label>
+    <label>&lt;color=#d4ffa3>Heal body part&lt;/color></label>
     <description>Heal animal body part using medicine and synthread</description>
     <jobString>Healing body part</jobString>
     <removesHediff>Burn</removesHediff>
   </RecipeDef>
   <RecipeDef ParentName="SurgeryCF_Dis_Heal">
     <defName>CureBodyPartW_CF</defName>
-    <label>&lt;color=#d4ffa3&gt;Heal body part&lt;/color&gt;</label>
+    <label>&lt;color=#d4ffa3>Heal body part&lt;/color></label>
     <description>Heal animal body part using medicine and synthread</description>
     <jobString>Healing body part</jobString>
     <removesHediff>Crush</removesHediff>
   </RecipeDef>
   <RecipeDef ParentName="SurgeryCF_Dis_Heal">
     <defName>CureBodyPartE_CF</defName>
-    <label>&lt;color=#d4ffa3&gt;Heal body part&lt;/color&gt;</label>
+    <label>&lt;color=#d4ffa3>Heal body part&lt;/color></label>
     <description>Heal animal body part using medicine and synthread</description>
     <jobString>Healing body part</jobString>
     <removesHediff>Crack</removesHediff>
   </RecipeDef>
   <RecipeDef ParentName="SurgeryCF_Dis_Heal">
     <defName>CureBodyPartR_CF</defName>
-    <label>&lt;color=#d4ffa3&gt;Heal body part&lt;/color&gt;</label>
+    <label>&lt;color=#d4ffa3>Heal body part&lt;/color></label>
     <description>Heal animal body part using medicine and synthread</description>
     <jobString>Healing body part</jobString>
     <removesHediff>Cut</removesHediff>
   </RecipeDef>
   <RecipeDef ParentName="SurgeryCF_Dis_Heal">
     <defName>CureBodyPartT_CF</defName>
-    <label>&lt;color=#d4ffa3&gt;Heal body part&lt;/color&gt;</label>
+    <label>&lt;color=#d4ffa3>Heal body part&lt;/color></label>
     <description>Heal animal body part using medicine and synthread</description>
     <jobString>Healing body part</jobString>
     <removesHediff>SurgicalCut</removesHediff>
   </RecipeDef>
   <RecipeDef ParentName="SurgeryCF_Dis_Heal">
     <defName>CureBodyPartY_CF</defName>
-    <label>&lt;color=#d4ffa3&gt;Heal body part&lt;/color&gt;</label>
+    <label>&lt;color=#d4ffa3>Heal body part&lt;/color></label>
     <description>Heal animal body part using medicine and synthread</description>
     <jobString>Healing body part</jobString>
     <removesHediff>Scratch</removesHediff>
   </RecipeDef>
   <RecipeDef ParentName="SurgeryCF_Dis_Heal">
     <defName>CureBodyPartU_CF</defName>
-    <label>&lt;color=#d4ffa3&gt;Heal body part&lt;/color&gt;</label>
+    <label>&lt;color=#d4ffa3>Heal body part&lt;/color></label>
     <description>Heal animal body part using medicine and synthread</description>
     <jobString>Healing body part</jobString>
     <removesHediff>Bite</removesHediff>
   </RecipeDef>
   <RecipeDef ParentName="SurgeryCF_Dis_Heal">
     <defName>CureBodyPartI_CF</defName>
-    <label>&lt;color=#d4ffa3&gt;Heal body part&lt;/color&gt;</label>
+    <label>&lt;color=#d4ffa3>Heal body part&lt;/color></label>
     <description>Heal animal body part using medicine and synthread</description>
     <jobString>Healing body part</jobString>
     <removesHediff>Stab</removesHediff>
   </RecipeDef>
   <RecipeDef ParentName="SurgeryCF_Dis_Heal">
     <defName>CureBodyPartO_CF</defName>
-    <label>&lt;color=#d4ffa3&gt;Heal body part&lt;/color&gt;</label>
+    <label>&lt;color=#d4ffa3>Heal body part&lt;/color></label>
     <description>Heal animal body part using medicine and synthread</description>
     <jobString>Healing body part</jobString>
     <removesHediff>Gunshot</removesHediff>
   </RecipeDef>
   <RecipeDef ParentName="SurgeryCF_Dis_Heal">
     <defName>CureBodyPartP_CF</defName>
-    <label>&lt;color=#d4ffa3&gt;Heal body part&lt;/color&gt;</label>
+    <label>&lt;color=#d4ffa3>Heal body part&lt;/color></label>
     <description>Heal animal body part using medicine and synthread</description>
     <jobString>Healing body part</jobString>
     <removesHediff>Shredded</removesHediff>
   </RecipeDef>
   <RecipeDef ParentName="SurgeryCF_Dis_Heal">
     <defName>CureBodyPartA_CF</defName>
-    <label>&lt;color=#d4ffa3&gt;Heal body part&lt;/color&gt;</label>
+    <label>&lt;color=#d4ffa3>Heal body part&lt;/color></label>
     <description>Heal animal body part using medicine and synthread</description>
     <jobString>Healing body part</jobString>
     <removesHediff>Bruise</removesHediff>
   </RecipeDef>
   <RecipeDef ParentName="SurgeryCF_Dis_Heal">
     <defName>CureBodyPartS_CF</defName>
-    <label>&lt;color=#d4ffa3&gt;Heal body part&lt;/color&gt;</label>
+    <label>&lt;color=#d4ffa3>Heal body part&lt;/color></label>
     <description>Heal animal body part using medicine and synthread</description>
     <jobString>Healing body part</jobString>
     <removesHediff>Frostbite</removesHediff>
@@ -207,49 +207,49 @@
   </RecipeDef>
   <RecipeDef ParentName="SurgeryCF_Dis_Illness">
     <defName>CureIllnessQ_CF</defName>
-    <label>&lt;color=#fffa9e&gt;Сure illness&lt;/color&gt;</label>
+    <label>&lt;color=#fffa9e>Сure illness&lt;/color></label>
     <description>Сure animal illness using medicine and synthread</description>
     <jobString>Healing illness</jobString>
     <removesHediff>Cataract</removesHediff>
   </RecipeDef>
   <RecipeDef ParentName="SurgeryCF_Dis_Illness">
     <defName>CureIllnessW_CF</defName>
-    <label>&lt;color=#fffa9e&gt;Сure illness&lt;/color&gt;</label>
+    <label>&lt;color=#fffa9e>Сure illness&lt;/color></label>
     <description>Сure animal illness using medicine and synthread</description>
     <jobString>Healing illness</jobString>
     <removesHediff>HearingLoss</removesHediff>
   </RecipeDef>
   <RecipeDef ParentName="SurgeryCF_Dis_Illness">
     <defName>CureIllnessE_CF</defName>
-    <label>&lt;color=#fffa9e&gt;Сure illness&lt;/color&gt;</label>
+    <label>&lt;color=#fffa9e>Сure illness&lt;/color></label>
     <description>Сure animal illness using medicine and synthread</description>
     <jobString>Healing illness</jobString>
     <removesHediff>Asthma</removesHediff>
   </RecipeDef>
   <RecipeDef ParentName="SurgeryCF_Dis_Illness">
     <defName>CureIllnessR_CF</defName>
-    <label>&lt;color=#fffa9e&gt;Сure illness&lt;/color&gt;</label>
+    <label>&lt;color=#fffa9e>Сure illness&lt;/color></label>
     <description>Сure animal illness using medicine and synthread</description>
     <jobString>Healing illness</jobString>
     <removesHediff>HeartArteryBlockage</removesHediff>
   </RecipeDef>
   <RecipeDef ParentName="SurgeryCF_Dis_Illness">
     <defName>CureIllnessT_CF</defName>
-    <label>&lt;color=#fffa9e&gt;Сure illness&lt;/color&gt;</label>
+    <label>&lt;color=#fffa9e>Сure illness&lt;/color></label>
     <description>Сure animal illness using medicine and synthread</description>
     <jobString>Healing illness</jobString>
     <removesHediff>Cirrhosis</removesHediff>
   </RecipeDef>
   <RecipeDef ParentName="SurgeryCF_Dis_Illness">
     <defName>CureIllnessY_CF</defName>
-    <label>&lt;color=#fffa9e&gt;Сure illness&lt;/color&gt;</label>
+    <label>&lt;color=#fffa9e>Сure illness&lt;/color></label>
     <description>Сure animal illness using medicine and synthread</description>
     <jobString>Healing illness</jobString>
     <removesHediff>ChemicalDamageModerate</removesHediff>
   </RecipeDef>
   <RecipeDef ParentName="SurgeryCF_Dis_Illness">
     <defName>CureIllnessU_CF</defName>
-    <label>&lt;color=#fffa9e&gt;Сure illness&lt;/color&gt;</label>
+    <label>&lt;color=#fffa9e>Сure illness&lt;/color></label>
     <description>Сure animal illness using medicine and synthread</description>
     <jobString>Healing illness</jobString>
     <removesHediff>ChemicalDamageSevere</removesHediff>
@@ -291,35 +291,35 @@
   </RecipeDef>
   <RecipeDef ParentName="SurgeryCF_Dis_SeriousIllness">
     <defName>CureSeriousIllnessQ_CF</defName>
-    <label>&lt;color=#ffde5a&gt;Сure serious illness&lt;/color&gt;</label>
+    <label>&lt;color=#ffde5a>Сure serious illness&lt;/color></label>
     <description>Сure serious animal illness using medicine and synthread</description>
     <jobString>Healing serious illness</jobString>
     <removesHediff>BadBack</removesHediff>
   </RecipeDef>
   <RecipeDef ParentName="SurgeryCF_Dis_SeriousIllness">
     <defName>CureSeriousIllnessW_CF</defName>
-    <label>&lt;color=#ffde5a&gt;Сure serious illness&lt;/color&gt;</label>
+    <label>&lt;color=#ffde5a>Сure serious illness&lt;/color></label>
     <description>Сure serious animal illness using medicine and synthread</description>
     <jobString>Healing serious illness</jobString>
     <removesHediff>Frail</removesHediff>
   </RecipeDef>
   <RecipeDef ParentName="SurgeryCF_Dis_SeriousIllness">
     <defName>CureSeriousIllnessE_CF</defName>
-    <label>&lt;color=#ffde5a&gt;Сure serious illness&lt;/color&gt;</label>
+    <label>&lt;color=#ffde5a>Сure serious illness&lt;/color></label>
     <description>Сure serious animal illness using medicine and synthread</description>
     <jobString>Healing serious illness</jobString>
     <removesHediff>Blindness</removesHediff>
   </RecipeDef>
   <RecipeDef ParentName="SurgeryCF_Dis_SeriousIllness">
     <defName>CureSeriousIllnessR_CF</defName>
-    <label>&lt;color=#ffde5a&gt;Сure serious illness&lt;/color&gt;</label>
+    <label>&lt;color=#ffde5a>Сure serious illness&lt;/color></label>
     <description>Сure serious animal illness using medicine and synthread</description>
     <jobString>Healing serious illness</jobString>
     <removesHediff>Dementia</removesHediff>
   </RecipeDef>
   <RecipeDef ParentName="SurgeryCF_Dis_SeriousIllness">
     <defName>CureSeriousIllnessT_CF</defName>
-    <label>&lt;color=#ffde5a&gt;Сure serious illness&lt;/color&gt;</label>
+    <label>&lt;color=#ffde5a>Сure serious illness&lt;/color></label>
     <description>Сure serious animal illness using medicine and synthread</description>
     <jobString>Healing serious illness</jobString>
     <removesHediff>Alzheimers</removesHediff>

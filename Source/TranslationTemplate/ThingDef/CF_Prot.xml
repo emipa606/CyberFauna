@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Archotech animal brain -->
+  <CFArchoAniChip.label>Archotech animal brain</CFArchoAniChip.label>
+  <!-- EN: An immensely powerful artificial brain, but for some reason with a very advanced mind inside. -->
+  <CFArchoAniChip.description>An immensely powerful artificial brain, but for some reason with a very advanced mind inside.</CFArchoAniChip.description>
+  <!-- EN: Archotech animal eye -->
+  <CFArchoAniEye.label>Archotech animal eye</CFArchoAniEye.label>
+  <!-- EN: An artificial eye, built by an archotech. Somehow it shapes itself to fit any animal's eyesocket, except human's. Greatly increases vision. Unknown, whether it lacks other archotech eye functionality, or the animals just don't know how to use it. -->
+  <CFArchoAniEye.description>An artificial eye, built by an archotech. Somehow it shapes itself to fit any animal's eyesocket, except human's. Greatly increases vision. Unknown, whether it lacks other archotech eye functionality, or the animals just don't know how to use it.</CFArchoAniEye.description>
+  <!-- EN: Archotech animal jaw -->
+  <CFArchoAniJaw.label>Archotech animal jaw</CFArchoAniJaw.label>
+  <!-- EN: An artificial archotech jaw. Changes the animal's metabolism, making it require very small amount of food to live. Also its bite can penetrate even plasteel. -->
+  <CFArchoAniJaw.description>An artificial archotech jaw. Changes the animal's metabolism, making it require very small amount of food to live. Also its bite can penetrate even plasteel.</CFArchoAniJaw.description>
+  <!-- EN: Archotech animal leg -->
+  <CFArchoAniPaw.label>Archotech animal leg</CFArchoAniPaw.label>
+  <!-- EN: An artificial limb made by an archotech. Somehow it shapes itself to fit any animal it's attached to, except human. Extremely strong and powerful, it can turn the carrier into a killing machine. Yes, a killing machine squirrel too. -->
+  <CFArchoAniPaw.description>An artificial limb made by an archotech. Somehow it shapes itself to fit any animal it's attached to, except human. Extremely strong and powerful, it can turn the carrier into a killing machine. Yes, a killing machine squirrel too.</CFArchoAniPaw.description>
+  <!-- EN: Archotech animal spine -->
+  <CFArchoAniSpine.label>Archotech animal spine</CFArchoAniSpine.label>
+  <!-- EN: An artificial archotech spine. Being implanted into the body, it boosts the productivity of almost every cell. -->
+  <CFArchoAniSpine.description>An artificial archotech spine. Being implanted into the body, it boosts the productivity of almost every cell.</CFArchoAniSpine.description>
+  <!-- EN: Animal body battle booster -->
+  <CFBattleAniBody.label>Animal body battle booster</CFBattleAniBody.label>
+  <!-- EN: Battle booster is a set of mechanite-enhanced microfibers, designed to raise animal's combat power. This one should be implanted into animal body. When there is a risk of being wounded, mechanites strengthen body tissues, reducing incoming damage. The booster is absolutely harmless to animal, we guarantee it. -->
+  <CFBattleAniBody.description>Battle booster is a set of mechanite-enhanced microfibers, designed to raise animal's combat power. This one should be implanted into animal body. When there is a risk of being wounded, mechanites strengthen body tissues, reducing incoming damage. The booster is absolutely harmless to animal, we guarantee it.</CFBattleAniBody.description>
+  <!-- EN: Animal head battle booster -->
+  <CFBattleAniHead.label>Animal head battle booster</CFBattleAniHead.label>
+  <!-- EN: Battle booster is a set of mechanite-enhanced microfibers, designed to raise animal's combat power. This one should be implanted into animal head. When there is a risk of being wounded, mechanites strengthen body tissues, reducing incoming damage. The booster is absolutely harmless to animal, we guarantee it. -->
+  <CFBattleAniHead.description>Battle booster is a set of mechanite-enhanced microfibers, designed to raise animal's combat power. This one should be implanted into animal head. When there is a risk of being wounded, mechanites strengthen body tissues, reducing incoming damage. The booster is absolutely harmless to animal, we guarantee it.</CFBattleAniHead.description>
+  <!-- EN: Animal neck battle booster -->
+  <CFBattleAniNeck.label>Animal neck battle booster</CFBattleAniNeck.label>
+  <!-- EN: Battle booster is a set of mechanite-enhanced microfibers, designed to raise animal's combat power. This one should be implanted into animal neck. When there is a risk of being wounded, mechanites strengthen body tissues, reducing incoming damage. The booster is absolutely harmless to animal, we guarantee it. -->
+  <CFBattleAniNeck.description>Battle booster is a set of mechanite-enhanced microfibers, designed to raise animal's combat power. This one should be implanted into animal neck. When there is a risk of being wounded, mechanites strengthen body tissues, reducing incoming damage. The booster is absolutely harmless to animal, we guarantee it.</CFBattleAniNeck.description>
+  <!-- EN: Animal brain implant -->
+  <CFBionicAniChip.label>Animal brain implant</CFBionicAniChip.label>
+  <!-- EN: If your cyber dog has some brain issues, this should fix it. Also this will make it smarter.. -->
+  <CFBionicAniChip.description>If your cyber dog has some brain issues, this should fix it. Also this will make it smarter..</CFBionicAniChip.description>
+  <!-- EN: bionic animal eye -->
+  <CFBionicAniEye.label>bionic animal eye</CFBionicAniEye.label>
+  <!-- EN: An advanced bionic eye, plain and simple. -->
+  <CFBionicAniEye.description>An advanced bionic eye, plain and simple.</CFBionicAniEye.description>
+  <!-- EN: bionic animal heart -->
+  <CFBionicAniHeart.label>bionic animal heart</CFBionicAniHeart.label>
+  <!-- EN: An advanced prosthetic heart. Fully substitutes real heart and performs even better in some cases.. -->
+  <CFBionicAniHeart.description>An advanced prosthetic heart. Fully substitutes real heart and performs even better in some cases..</CFBionicAniHeart.description>
+  <!-- EN: bionic animal jaw -->
+  <CFBionicAniJaw.label>bionic animal jaw</CFBionicAniJaw.label>
+  <!-- EN: A light and powerful artificial jaw. With plasteel teeth your bite is finally worse than bark. -->
+  <CFBionicAniJaw.description>A light and powerful artificial jaw. With plasteel teeth your bite is finally worse than bark.</CFBionicAniJaw.description>
+  <!-- EN: bionic animal kidney -->
+  <CFBionicAniKidney.label>bionic animal kidney</CFBionicAniKidney.label>
+  <!-- EN: Thanks to a hi-tech filtration system, it filters blood better, protecting the animal from diseases. -->
+  <CFBionicAniKidney.description>Thanks to a hi-tech filtration system, it filters blood better, protecting the animal from diseases.</CFBionicAniKidney.description>
+  <!-- EN: bionic animal liver -->
+  <CFBionicAniLiver.label>bionic animal liver</CFBionicAniLiver.label>
+  <!-- EN: An advanced bioelectronic device that filters blood better than normal liver, strengthening the immune system. -->
+  <CFBionicAniLiver.description>An advanced bioelectronic device that filters blood better than normal liver, strengthening the immune system.</CFBionicAniLiver.description>
+  <!-- EN: bionic animal lung -->
+  <CFBionicAniLung.label>bionic animal lung</CFBionicAniLung.label>
+  <!-- EN: An advanced respiratory organ that works better than a real lung. -->
+  <CFBionicAniLung.description>An advanced respiratory organ that works better than a real lung.</CFBionicAniLung.description>
+  <!-- EN: bionic animal leg -->
+  <CFBionicAniPaw.label>bionic animal leg</CFBionicAniPaw.label>
+  <!-- EN: An advanced hi-tech prosthesis, used as leg or arm replacement. Modular structure allows for it to be adjusted to fit almost every type of animal. Surpasses usual limb in almost every aspect. -->
+  <CFBionicAniPaw.description>An advanced hi-tech prosthesis, used as leg or arm replacement. Modular structure allows for it to be adjusted to fit almost every type of animal. Surpasses usual limb in almost every aspect.</CFBionicAniPaw.description>
+  <!-- EN: bionic animal spine -->
+  <CFBionicAniSpine.label>bionic animal spine</CFBionicAniSpine.label>
+  <!-- EN: An advanced bionic spine. Surpasses the real one in almost every aspect. -->
+  <CFBionicAniSpine.description>An advanced bionic spine. Surpasses the real one in almost every aspect.</CFBionicAniSpine.description>
+  <!-- EN: bionic animal stomach -->
+  <CFBionicAniStomach.label>bionic animal stomach</CFBionicAniStomach.label>
+  <!-- EN: A strong bioelectronic stomach that digests food better and faster. -->
+  <CFBionicAniStomach.description>A strong bioelectronic stomach that digests food better and faster.</CFBionicAniStomach.description>
+  <!-- EN: Prosthetic animal eye -->
+  <CFSimpleAniEye.label>Prosthetic animal eye</CFSimpleAniEye.label>
+  <!-- EN: A relatively simple device, attached to the nerves in a place of a missing eye. Partly restores vision. -->
+  <CFSimpleAniEye.description>A relatively simple device, attached to the nerves in a place of a missing eye. Partly restores vision.</CFSimpleAniEye.description>
+  <!-- EN: Prosthetic animal jaw -->
+  <CFSimpleAniJaw.label>Prosthetic animal jaw</CFSimpleAniJaw.label>
+  <!-- EN: A steel jaw replacement. Servos allow to chew, but not as good or fast as before.. -->
+  <CFSimpleAniJaw.description>A steel jaw replacement. Servos allow to chew, but not as good or fast as before..</CFSimpleAniJaw.description>
+  <!-- EN: Prosthetic animal leg -->
+  <CFSimpleAniPaw.label>Prosthetic animal leg</CFSimpleAniPaw.label>
+  <!-- EN: A steel prosthesis, used as leg or arm replacement. Modular structure allows for it to be adjusted to fit almost every type of animal. But do not expect that it will move fast with this thing. -->
+  <CFSimpleAniPaw.description>A steel prosthesis, used as leg or arm replacement. Modular structure allows for it to be adjusted to fit almost every type of animal. But do not expect that it will move fast with this thing.</CFSimpleAniPaw.description>
+  <!-- EN: Prosthetic animal spine -->
+  <CFSimpleAniSpine.label>Prosthetic animal spine</CFSimpleAniSpine.label>
+  <!-- EN: Better than nothing, worse than a spine. -->
+  <CFSimpleAniSpine.description>Better than nothing, worse than a spine.</CFSimpleAniSpine.description>
+  <!-- EN: Advanced mini component -->
+  <MiniComponentSpacer.label>Advanced mini component</MiniComponentSpacer.label>
+  <!-- EN: Mini-Advanced computing and energy-directing machinery for animal prosthetic. -->
+  <MiniComponentSpacer.description>Mini-Advanced computing and energy-directing machinery for animal prosthetic.</MiniComponentSpacer.description>
+  <!-- EN: Unfinished Animal part -->
+  <Unfinished_CF_AnimalPart.label>Unfinished Animal part</Unfinished_CF_AnimalPart.label>
+</LanguageData>

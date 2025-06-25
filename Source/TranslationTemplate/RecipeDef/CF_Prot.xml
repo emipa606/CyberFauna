@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make advanced Mini component x3 -->
+  <Make_MiniComponentSpacer.label>make advanced Mini component x3</Make_MiniComponentSpacer.label>
+  <!-- EN: Make an advanced Mini component. -->
+  <Make_MiniComponentSpacer.description>Make an advanced Mini component.</Make_MiniComponentSpacer.description>
+  <!-- EN: Making advanced Mini component. -->
+  <Make_MiniComponentSpacer.jobString>Making advanced Mini component.</Make_MiniComponentSpacer.jobString>
+</LanguageData>

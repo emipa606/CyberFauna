@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: work at Animal Lab -->
+  <DoBillsAnimalLab.label>work at Animal Lab</DoBillsAnimalLab.label>
+  <!-- EN: crafting animal-lab -->
+  <DoBillsAnimalLab.gerund>crafting animal-lab</DoBillsAnimalLab.gerund>
+  <!-- EN: animal-lab -->
+  <DoBillsAnimalLab.verb>animal-lab</DoBillsAnimalLab.verb>
+</LanguageData>

@@ -29,15 +29,15 @@ public class HediffSet_GetPartHealth
                 continue;
             }
 
-            var hediffComp_PartHitPoints = hediff.TryGetComp<HediffComp_PartHitPoints>();
-            if (hediffComp_PartHitPoints != null)
+            var hediffCompPartHitPoints = hediff.TryGetComp<HediffComp_PartHitPoints>();
+            if (hediffCompPartHitPoints != null)
             {
-                num *= hediffComp_PartHitPoints.Props.multiplier;
+                num *= hediffCompPartHitPoints.Props.multiplier;
             }
 
-            if (hediff is Hediff_Injury hediff_Injury)
+            if (hediff is Hediff_Injury hediffInjury)
             {
-                num -= hediff_Injury.Severity;
+                num -= hediffInjury.Severity;
             }
         }
 

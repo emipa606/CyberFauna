@@ -39,23 +39,23 @@ public class PawnCapacityUtility_CalculatePartEfficiency
         {
             foreach (var hediff in diffSet.hediffs)
             {
-                if (hediff is not Hediff_AddedPart hediff_AddedPart || hediff_AddedPart.Part != part)
+                if (hediff is not Hediff_AddedPart hediffAddedPart || hediffAddedPart.Part != part)
                 {
                     continue;
                 }
 
-                num *= hediff_AddedPart.def.addedPartProps.partEfficiency;
-                if (hediff_AddedPart.def.addedPartProps.partEfficiency != 1f)
+                num *= hediffAddedPart.def.addedPartProps.partEfficiency;
+                if (hediffAddedPart.def.addedPartProps.partEfficiency != 1f)
                 {
                     impactors?.Add(new PawnCapacityUtility.CapacityImpactorHediff
                     {
-                        hediff = hediff_AddedPart
+                        hediff = hediffAddedPart
                     });
                 }
             }
         }
 
-        var b = -1f;
+        const float b = -1f;
         var num2 = 0f;
         var partIgnoreMissingHp = false;
         foreach (var hediff in diffSet.hediffs)

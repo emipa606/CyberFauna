@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: archotech animal brain -->
+  <CFArchoAniChipHed.label>archotech animal brain</CFArchoAniChipHed.label>
+  <!-- EN: An installed archotech animal brain. -->
+  <CFArchoAniChipHed.description>An installed archotech animal brain.</CFArchoAniChipHed.description>
+  <!-- EN: a archotech animal brain -->
+  <CFArchoAniChipHed.labelNoun>a archotech animal brain</CFArchoAniChipHed.labelNoun>
+  <!-- EN: archotech animal eye -->
+  <CFArchoAniEyeHed.label>archotech animal eye</CFArchoAniEyeHed.label>
+  <!-- EN: An installed archotech animal eye. -->
+  <CFArchoAniEyeHed.description>An installed archotech animal eye.</CFArchoAniEyeHed.description>
+  <!-- EN: a archotech animal eye -->
+  <CFArchoAniEyeHed.labelNoun>a archotech animal eye</CFArchoAniEyeHed.labelNoun>
+  <!-- EN: archotech animal jaw -->
+  <CFArchoAniJawHed.label>archotech animal jaw</CFArchoAniJawHed.label>
+  <!-- EN: An installed archotech animal jaw. -->
+  <CFArchoAniJawHed.description>An installed archotech animal jaw.</CFArchoAniJawHed.description>
+  <!-- EN: teeth -->
+  <CFArchoAniJawHed.comps.HediffComp_VerbGiver.tools.teeth.label>teeth</CFArchoAniJawHed.comps.HediffComp_VerbGiver.tools.teeth.label>
+  <!-- EN: a archotech animal jaw -->
+  <CFArchoAniJawHed.labelNoun>a archotech animal jaw</CFArchoAniJawHed.labelNoun>
+  <!-- EN: archotech animal paw -->
+  <CFArchoAniPawHed.label>archotech animal paw</CFArchoAniPawHed.label>
+  <!-- EN: An installed archotech animal paw. -->
+  <CFArchoAniPawHed.description>An installed archotech animal paw.</CFArchoAniPawHed.description>
+  <!-- EN: archo animal paw -->
+  <CFArchoAniPawHed.comps.HediffComp_VerbGiver.tools.archo_animal_paw.label>archo animal paw</CFArchoAniPawHed.comps.HediffComp_VerbGiver.tools.archo_animal_paw.label>
+  <!-- EN: a archotech animal paw -->
+  <CFArchoAniPawHed.labelNoun>a archotech animal paw</CFArchoAniPawHed.labelNoun>
+  <!-- EN: archotech animal spine -->
+  <CFArchoAniSpineHed.label>archotech animal spine</CFArchoAniSpineHed.label>
+  <!-- EN: An installed archotech animal spine. -->
+  <CFArchoAniSpineHed.description>An installed archotech animal spine.</CFArchoAniSpineHed.description>
+  <!-- EN: a archotech animal spine -->
+  <CFArchoAniSpineHed.labelNoun>a archotech animal spine</CFArchoAniSpineHed.labelNoun>
+  <!-- EN: animal body battle booster -->
+  <CFBattleAniBodyHed.label>animal body battle booster</CFBattleAniBodyHed.label>
+  <!-- EN: An installed animal body battle booster. -->
+  <CFBattleAniBodyHed.description>An installed animal body battle booster.</CFBattleAniBodyHed.description>
+  <!-- EN: a animal body battle booster -->
+  <CFBattleAniBodyHed.labelNoun>a animal body battle booster</CFBattleAniBodyHed.labelNoun>
+  <!-- EN: animal head battle booster -->
+  <CFBattleAniHeadHed.label>animal head battle booster</CFBattleAniHeadHed.label>
+  <!-- EN: An installed animal head battle booster. -->
+  <CFBattleAniHeadHed.description>An installed animal head battle booster.</CFBattleAniHeadHed.description>
+  <!-- EN: a animal head battle booster -->
+  <CFBattleAniHeadHed.labelNoun>a animal head battle booster</CFBattleAniHeadHed.labelNoun>
+  <!-- EN: animal neck battle booster -->
+  <CFBattleAniNeckHed.label>animal neck battle booster</CFBattleAniNeckHed.label>
+  <!-- EN: An installed animal neck battle booster. -->
+  <CFBattleAniNeckHed.description>An installed animal neck battle booster.</CFBattleAniNeckHed.description>
+  <!-- EN: a animal neck battle booster -->
+  <CFBattleAniNeckHed.labelNoun>a animal neck battle booster</CFBattleAniNeckHed.labelNoun>
+  <!-- EN: animal brain implant -->
+  <CFBionicAniChipHed.label>animal brain implant</CFBionicAniChipHed.label>
+  <!-- EN: An installed animal brain implant. -->
+  <CFBionicAniChipHed.description>An installed animal brain implant.</CFBionicAniChipHed.description>
+  <!-- EN: a animal brain implant -->
+  <CFBionicAniChipHed.labelNoun>a animal brain implant</CFBionicAniChipHed.labelNoun>
+  <!-- EN: bionic animal eye -->
+  <CFBionicAniEyeHed.label>bionic animal eye</CFBionicAniEyeHed.label>
+  <!-- EN: An installed bionic animal eye. -->
+  <CFBionicAniEyeHed.description>An installed bionic animal eye.</CFBionicAniEyeHed.description>
+  <!-- EN: a bionic animal eye -->
+  <CFBionicAniEyeHed.labelNoun>a bionic animal eye</CFBionicAniEyeHed.labelNoun>
+  <!-- EN: bionic animal heart -->
+  <CFBionicAniHeartHed.label>bionic animal heart</CFBionicAniHeartHed.label>
+  <!-- EN: An installed bionic animal heart. -->
+  <CFBionicAniHeartHed.description>An installed bionic animal heart.</CFBionicAniHeartHed.description>
+  <!-- EN: a bionic animal heart -->
+  <CFBionicAniHeartHed.labelNoun>a bionic animal heart</CFBionicAniHeartHed.labelNoun>
+  <!-- EN: bionic animal jaw -->
+  <CFBionicAniJawHed.label>bionic animal jaw</CFBionicAniJawHed.label>
+  <!-- EN: An installed bionic animal jaw. -->
+  <CFBionicAniJawHed.description>An installed bionic animal jaw.</CFBionicAniJawHed.description>
+  <!-- EN: teeth -->
+  <CFBionicAniJawHed.comps.HediffComp_VerbGiver.tools.teeth.label>teeth</CFBionicAniJawHed.comps.HediffComp_VerbGiver.tools.teeth.label>
+  <!-- EN: a bionic animal jaw -->
+  <CFBionicAniJawHed.labelNoun>a bionic animal jaw</CFBionicAniJawHed.labelNoun>
+  <!-- EN: bionic animal kidney -->
+  <CFBionicAniKidneyHed.label>bionic animal kidney</CFBionicAniKidneyHed.label>
+  <!-- EN: An installed bionic animal kidney. -->
+  <CFBionicAniKidneyHed.description>An installed bionic animal kidney.</CFBionicAniKidneyHed.description>
+  <!-- EN: a bionic animal kidney -->
+  <CFBionicAniKidneyHed.labelNoun>a bionic animal kidney</CFBionicAniKidneyHed.labelNoun>
+  <!-- EN: bionic animal liver -->
+  <CFBionicAniLiverHed.label>bionic animal liver</CFBionicAniLiverHed.label>
+  <!-- EN: An installed bionic animal liver. -->
+  <CFBionicAniLiverHed.description>An installed bionic animal liver.</CFBionicAniLiverHed.description>
+  <!-- EN: a bionic animal liver -->
+  <CFBionicAniLiverHed.labelNoun>a bionic animal liver</CFBionicAniLiverHed.labelNoun>
+  <!-- EN: bionic animal lung -->
+  <CFBionicAniLungHed.label>bionic animal lung</CFBionicAniLungHed.label>
+  <!-- EN: An installed bionic animal lung. -->
+  <CFBionicAniLungHed.description>An installed bionic animal lung.</CFBionicAniLungHed.description>
+  <!-- EN: a bionic animal lung -->
+  <CFBionicAniLungHed.labelNoun>a bionic animal lung</CFBionicAniLungHed.labelNoun>
+  <!-- EN: bionic animal leg -->
+  <CFBionicAniPawHed.label>bionic animal leg</CFBionicAniPawHed.label>
+  <!-- EN: An installed bionic animal paw. -->
+  <CFBionicAniPawHed.description>An installed bionic animal paw.</CFBionicAniPawHed.description>
+  <!-- EN: bionic animal paw -->
+  <CFBionicAniPawHed.comps.HediffComp_VerbGiver.tools.bionic_animal_paw.label>bionic animal paw</CFBionicAniPawHed.comps.HediffComp_VerbGiver.tools.bionic_animal_paw.label>
+  <!-- EN: a bionic animal paw -->
+  <CFBionicAniPawHed.labelNoun>a bionic animal paw</CFBionicAniPawHed.labelNoun>
+  <!-- EN: bionic animal spine -->
+  <CFBionicAniSpineHed.label>bionic animal spine</CFBionicAniSpineHed.label>
+  <!-- EN: An installed bionic animal spine. -->
+  <CFBionicAniSpineHed.description>An installed bionic animal spine.</CFBionicAniSpineHed.description>
+  <!-- EN: a bionic animal spine -->
+  <CFBionicAniSpineHed.labelNoun>a bionic animal spine</CFBionicAniSpineHed.labelNoun>
+  <!-- EN: bionic animal stomach -->
+  <CFBionicAniStomachHed.label>bionic animal stomach</CFBionicAniStomachHed.label>
+  <!-- EN: An installed bionic animal stomach. -->
+  <CFBionicAniStomachHed.description>An installed bionic animal stomach.</CFBionicAniStomachHed.description>
+  <!-- EN: a bionic animal stomach -->
+  <CFBionicAniStomachHed.labelNoun>a bionic animal stomach</CFBionicAniStomachHed.labelNoun>
+  <!-- EN: prosthetic animal eye -->
+  <CFSimpleAniEyeHed.label>prosthetic animal eye</CFSimpleAniEyeHed.label>
+  <!-- EN: An installed animal eye. -->
+  <CFSimpleAniEyeHed.description>An installed animal eye.</CFSimpleAniEyeHed.description>
+  <!-- EN: a prosthetic animal eye -->
+  <CFSimpleAniEyeHed.labelNoun>a prosthetic animal eye</CFSimpleAniEyeHed.labelNoun>
+  <!-- EN: prosthetic animal jaw -->
+  <CFSimpleAniJawHed.label>prosthetic animal jaw</CFSimpleAniJawHed.label>
+  <!-- EN: An installed animal jaw. -->
+  <CFSimpleAniJawHed.description>An installed animal jaw.</CFSimpleAniJawHed.description>
+  <!-- EN: teeth -->
+  <CFSimpleAniJawHed.comps.HediffComp_VerbGiver.tools.teeth.label>teeth</CFSimpleAniJawHed.comps.HediffComp_VerbGiver.tools.teeth.label>
+  <!-- EN: a prosthetic animal jaw -->
+  <CFSimpleAniJawHed.labelNoun>a prosthetic animal jaw</CFSimpleAniJawHed.labelNoun>
+  <!-- EN: prosthetic animal leg -->
+  <CFSimpleAniPawHed.label>prosthetic animal leg</CFSimpleAniPawHed.label>
+  <!-- EN: An installed animal leg. -->
+  <CFSimpleAniPawHed.description>An installed animal leg.</CFSimpleAniPawHed.description>
+  <!-- EN: simple animal paw -->
+  <CFSimpleAniPawHed.comps.HediffComp_VerbGiver.tools.simple_animal_paw.label>simple animal paw</CFSimpleAniPawHed.comps.HediffComp_VerbGiver.tools.simple_animal_paw.label>
+  <!-- EN: a prosthetic animal leg -->
+  <CFSimpleAniPawHed.labelNoun>a prosthetic animal leg</CFSimpleAniPawHed.labelNoun>
+  <!-- EN: prosthetic animal spine -->
+  <CFSimpleAniSpineHed.label>prosthetic animal spine</CFSimpleAniSpineHed.label>
+  <!-- EN: An installed animal spine. -->
+  <CFSimpleAniSpineHed.description>An installed animal spine.</CFSimpleAniSpineHed.description>
+  <!-- EN: a prosthetic animal spine -->
+  <CFSimpleAniSpineHed.labelNoun>a prosthetic animal spine</CFSimpleAniSpineHed.labelNoun>
+</LanguageData>

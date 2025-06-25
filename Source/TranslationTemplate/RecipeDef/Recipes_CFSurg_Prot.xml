@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: <color=#CF9ED8>Install Archotech animal brain</color> -->
+  <InstallCFArchoAniChip.label>&lt;color=#CF9ED8>Install Archotech animal brain&lt;/color></InstallCFArchoAniChip.label>
+  <!-- EN: install Archotech animal brain. -->
+  <InstallCFArchoAniChip.description>install Archotech animal brain.</InstallCFArchoAniChip.description>
+  <!-- EN: Installing Archotech animal brain. -->
+  <InstallCFArchoAniChip.jobString>Installing Archotech animal brain.</InstallCFArchoAniChip.jobString>
+  <!-- EN: <color=#CF9ED8>Install Archotech animal eye</color> -->
+  <InstallCFArchoAniEye.label>&lt;color=#CF9ED8>Install Archotech animal eye&lt;/color></InstallCFArchoAniEye.label>
+  <!-- EN: install Archotech animal eye. -->
+  <InstallCFArchoAniEye.description>install Archotech animal eye.</InstallCFArchoAniEye.description>
+  <!-- EN: Installing Archotech animal eye. -->
+  <InstallCFArchoAniEye.jobString>Installing Archotech animal eye.</InstallCFArchoAniEye.jobString>
+  <!-- EN: <color=#CF9ED8>Install Archotech animal jaw</color> -->
+  <InstallCFArchoAniJaw.label>&lt;color=#CF9ED8>Install Archotech animal jaw&lt;/color></InstallCFArchoAniJaw.label>
+  <!-- EN: install Archotech animal jaw. -->
+  <InstallCFArchoAniJaw.description>install Archotech animal jaw.</InstallCFArchoAniJaw.description>
+  <!-- EN: Installing Archotech animal jaw. -->
+  <InstallCFArchoAniJaw.jobString>Installing Archotech animal jaw.</InstallCFArchoAniJaw.jobString>
+  <!-- EN: <color=#CF9ED8>Install Archotech animal leg</color> -->
+  <InstallCFArchoAniPaw.label>&lt;color=#CF9ED8>Install Archotech animal leg&lt;/color></InstallCFArchoAniPaw.label>
+  <!-- EN: install Archotech animal leg. -->
+  <InstallCFArchoAniPaw.description>install Archotech animal leg.</InstallCFArchoAniPaw.description>
+  <!-- EN: Installing Archotech animal leg. -->
+  <InstallCFArchoAniPaw.jobString>Installing Archotech animal leg.</InstallCFArchoAniPaw.jobString>
+  <!-- EN: <color=#CF9ED8>Install Archotech animal spine</color> -->
+  <InstallCFArchoAniSpine.label>&lt;color=#CF9ED8>Install Archotech animal spine&lt;/color></InstallCFArchoAniSpine.label>
+  <!-- EN: install  Archotech animal spine. -->
+  <InstallCFArchoAniSpine.description>install  Archotech animal spine.</InstallCFArchoAniSpine.description>
+  <!-- EN: Installing  Archotech animal spine. -->
+  <InstallCFArchoAniSpine.jobString>Installing  Archotech animal spine.</InstallCFArchoAniSpine.jobString>
+  <!-- EN: <color=#D16EA8>Install animal body battle booster</color> -->
+  <InstallCFBattleAniBody.label>&lt;color=#D16EA8>Install animal body battle booster&lt;/color></InstallCFBattleAniBody.label>
+  <!-- EN: install animal body battle booster. -->
+  <InstallCFBattleAniBody.description>install animal body battle booster.</InstallCFBattleAniBody.description>
+  <!-- EN: Installing animal body battle booster. -->
+  <InstallCFBattleAniBody.jobString>Installing animal body battle booster.</InstallCFBattleAniBody.jobString>
+  <!-- EN: <color=#D16EA8>Install animal head battle booster</color> -->
+  <InstallCFBattleAniHead.label>&lt;color=#D16EA8>Install animal head battle booster&lt;/color></InstallCFBattleAniHead.label>
+  <!-- EN: install animal head battle booster. -->
+  <InstallCFBattleAniHead.description>install animal head battle booster.</InstallCFBattleAniHead.description>
+  <!-- EN: Installing animal head battle booster. -->
+  <InstallCFBattleAniHead.jobString>Installing animal head battle booster.</InstallCFBattleAniHead.jobString>
+  <!-- EN: <color=#D16EA8>Install animal neck battle booster</color> -->
+  <InstallCFBattleAniNeck.label>&lt;color=#D16EA8>Install animal neck battle booster&lt;/color></InstallCFBattleAniNeck.label>
+  <!-- EN: install animal neck battle booster. -->
+  <InstallCFBattleAniNeck.description>install animal neck battle booster.</InstallCFBattleAniNeck.description>
+  <!-- EN: Installing animal neck battle booster. -->
+  <InstallCFBattleAniNeck.jobString>Installing animal neck battle booster.</InstallCFBattleAniNeck.jobString>
+  <!-- EN: <color=#ADB3DB>Install animal brain implant</color> -->
+  <InstallCFBionicAniChip.label>&lt;color=#ADB3DB>Install animal brain implant&lt;/color></InstallCFBionicAniChip.label>
+  <!-- EN: install animal brain implant. -->
+  <InstallCFBionicAniChip.description>install animal brain implant.</InstallCFBionicAniChip.description>
+  <!-- EN: Installing animal brain implant. -->
+  <InstallCFBionicAniChip.jobString>Installing animal brain implant.</InstallCFBionicAniChip.jobString>
+  <!-- EN: <color=#ADB3DB>Install bionic animal eye</color> -->
+  <InstallCFBionicAniEye.label>&lt;color=#ADB3DB>Install bionic animal eye&lt;/color></InstallCFBionicAniEye.label>
+  <!-- EN: install bionic animal eye. -->
+  <InstallCFBionicAniEye.description>install bionic animal eye.</InstallCFBionicAniEye.description>
+  <!-- EN: Installing bionic animal eye. -->
+  <InstallCFBionicAniEye.jobString>Installing bionic animal eye.</InstallCFBionicAniEye.jobString>
+  <!-- EN: <color=#C0ADDB>Install bionic animal heart</color> -->
+  <InstallCFBionicAniHeart.label>&lt;color=#C0ADDB>Install bionic animal heart&lt;/color></InstallCFBionicAniHeart.label>
+  <!-- EN: install bionic animal heart. -->
+  <InstallCFBionicAniHeart.description>install bionic animal heart.</InstallCFBionicAniHeart.description>
+  <!-- EN: Installing bionic animal heart. -->
+  <InstallCFBionicAniHeart.jobString>Installing bionic animal heart.</InstallCFBionicAniHeart.jobString>
+  <!-- EN: <color=#ADB3DB>Install bionic animal jaw</color> -->
+  <InstallCFBionicAniJaw.label>&lt;color=#ADB3DB>Install bionic animal jaw&lt;/color></InstallCFBionicAniJaw.label>
+  <!-- EN: install bionic animal jaw. -->
+  <InstallCFBionicAniJaw.description>install bionic animal jaw.</InstallCFBionicAniJaw.description>
+  <!-- EN: Installing bionic animal jaw. -->
+  <InstallCFBionicAniJaw.jobString>Installing bionic animal jaw.</InstallCFBionicAniJaw.jobString>
+  <!-- EN: <color=#C0ADDB>Install bionic animal kidney</color> -->
+  <InstallCFBionicAniKidney.label>&lt;color=#C0ADDB>Install bionic animal kidney&lt;/color></InstallCFBionicAniKidney.label>
+  <!-- EN: install bionic animal kidney. -->
+  <InstallCFBionicAniKidney.description>install bionic animal kidney.</InstallCFBionicAniKidney.description>
+  <!-- EN: Installing bionic animal kidney. -->
+  <InstallCFBionicAniKidney.jobString>Installing bionic animal kidney.</InstallCFBionicAniKidney.jobString>
+  <!-- EN: <color=#C0ADDB>Install bionic animal liver</color> -->
+  <InstallCFBionicAniLiver.label>&lt;color=#C0ADDB>Install bionic animal liver&lt;/color></InstallCFBionicAniLiver.label>
+  <!-- EN: install bionic animal liver. -->
+  <InstallCFBionicAniLiver.description>install bionic animal liver.</InstallCFBionicAniLiver.description>
+  <!-- EN: Installing bionic animal liver. -->
+  <InstallCFBionicAniLiver.jobString>Installing bionic animal liver.</InstallCFBionicAniLiver.jobString>
+  <!-- EN: <color=#C0ADDB>Install bionic animal lung</color> -->
+  <InstallCFBionicAniLung.label>&lt;color=#C0ADDB>Install bionic animal lung&lt;/color></InstallCFBionicAniLung.label>
+  <!-- EN: install bionic animal lung. -->
+  <InstallCFBionicAniLung.description>install bionic animal lung.</InstallCFBionicAniLung.description>
+  <!-- EN: Installing bionic animal lung. -->
+  <InstallCFBionicAniLung.jobString>Installing bionic animal lung.</InstallCFBionicAniLung.jobString>
+  <!-- EN: <color=#ADB3DB>Install bionic animal leg</color> -->
+  <InstallCFBionicAniPaw.label>&lt;color=#ADB3DB>Install bionic animal leg&lt;/color></InstallCFBionicAniPaw.label>
+  <!-- EN: install bionic animal leg. -->
+  <InstallCFBionicAniPaw.description>install bionic animal leg.</InstallCFBionicAniPaw.description>
+  <!-- EN: Installing bionic animal leg. -->
+  <InstallCFBionicAniPaw.jobString>Installing bionic animal leg.</InstallCFBionicAniPaw.jobString>
+  <!-- EN: <color=#ADB3DB>Install bionic animal spine</color> -->
+  <InstallCFBionicAniSpine.label>&lt;color=#ADB3DB>Install bionic animal spine&lt;/color></InstallCFBionicAniSpine.label>
+  <!-- EN: install bionic animal spine. -->
+  <InstallCFBionicAniSpine.description>install bionic animal spine.</InstallCFBionicAniSpine.description>
+  <!-- EN: Installing bionic animal spine. -->
+  <InstallCFBionicAniSpine.jobString>Installing bionic animal spine.</InstallCFBionicAniSpine.jobString>
+  <!-- EN: <color=#C0ADDB>Install bionic animal stomach</color> -->
+  <InstallCFBionicAniStomach.label>&lt;color=#C0ADDB>Install bionic animal stomach&lt;/color></InstallCFBionicAniStomach.label>
+  <!-- EN: install bionic animal stomach. -->
+  <InstallCFBionicAniStomach.description>install bionic animal stomach.</InstallCFBionicAniStomach.description>
+  <!-- EN: Installing bionic animal stomach. -->
+  <InstallCFBionicAniStomach.jobString>Installing bionic animal stomach.</InstallCFBionicAniStomach.jobString>
+  <!-- EN: <color=#99BADD>Install prosthetic animal eye</color> -->
+  <InstallCFSimpleAniEye.label>&lt;color=#99BADD>Install prosthetic animal eye&lt;/color></InstallCFSimpleAniEye.label>
+  <!-- EN: install prosthetic animal eye. -->
+  <InstallCFSimpleAniEye.description>install prosthetic animal eye.</InstallCFSimpleAniEye.description>
+  <!-- EN: Installing prosthetic animal eye. -->
+  <InstallCFSimpleAniEye.jobString>Installing prosthetic animal eye.</InstallCFSimpleAniEye.jobString>
+  <!-- EN: <color=#99BADD>Install  prosthetic animal jaw</color> -->
+  <InstallCFSimpleAniJaw.label>&lt;color=#99BADD>Install  prosthetic animal jaw&lt;/color></InstallCFSimpleAniJaw.label>
+  <!-- EN: install prosthetic animal jaw. -->
+  <InstallCFSimpleAniJaw.description>install prosthetic animal jaw.</InstallCFSimpleAniJaw.description>
+  <!-- EN: Installing prosthetic animal jaw. -->
+  <InstallCFSimpleAniJaw.jobString>Installing prosthetic animal jaw.</InstallCFSimpleAniJaw.jobString>
+  <!-- EN: <color=#99BADD>Install prosthetic animal leg</color> -->
+  <InstallCFSimpleAniPaw.label>&lt;color=#99BADD>Install prosthetic animal leg&lt;/color></InstallCFSimpleAniPaw.label>
+  <!-- EN: Install prosthetic animal leg -->
+  <InstallCFSimpleAniPaw.description>Install prosthetic animal leg</InstallCFSimpleAniPaw.description>
+  <!-- EN: Installing prosthetic animal leg. -->
+  <InstallCFSimpleAniPaw.jobString>Installing prosthetic animal leg.</InstallCFSimpleAniPaw.jobString>
+  <!-- EN: <color=#99BADD>Install prosthetic animal spine</color> -->
+  <InstallCFSimpleAniSpine.label>&lt;color=#99BADD>Install prosthetic animal spine&lt;/color></InstallCFSimpleAniSpine.label>
+  <!-- EN: install prosthetic animal spine. -->
+  <InstallCFSimpleAniSpine.description>install prosthetic animal spine.</InstallCFSimpleAniSpine.description>
+  <!-- EN: Installing prosthetic animal spine. -->
+  <InstallCFSimpleAniSpine.jobString>Installing prosthetic animal spine.</InstallCFSimpleAniSpine.jobString>
+</LanguageData>

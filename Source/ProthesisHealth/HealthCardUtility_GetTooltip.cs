@@ -18,10 +18,10 @@ public class HealthCardUtility_GetTooltip
         maxHealth = Mathf.RoundToInt(maxHealth);
         foreach (var item in pawn.health.hediffSet.hediffs.Where(x => x.Part == part))
         {
-            var hediffComp_PartHitPoints = item.TryGetComp<HediffComp_PartHitPoints>();
-            if (hediffComp_PartHitPoints != null)
+            var hediffCompPartHitPoints = item.TryGetComp<HediffComp_PartHitPoints>();
+            if (hediffCompPartHitPoints != null)
             {
-                maxHealth *= hediffComp_PartHitPoints.Props.multiplier;
+                maxHealth *= hediffCompPartHitPoints.Props.multiplier;
             }
         }
 

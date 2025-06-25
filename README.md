@@ -1,12 +1,12 @@
-# [Cyber Fauna (Continued)]()
+# [Cyber Fauna (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3263134806)
 
 ![Image](https://i.imgur.com/buuPQel.png)
+
 Update of DaLLaNs mod https://steamcommunity.com/sharedfiles/filedetails/?id=1548649032
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
-**I'll be back as soon as Tynan stops deceiving fans of the game and starts updating the game. Previously, each update to the game introduced new mechanics, such as mood, drugs, and a global map. Now Ludeon is releasing paid mods costing $30 for the unoptimized core of the game. This is a terrible disrespect for the players. Therefore, I will not update my mods and advise other modders to do the same. I decided not to delete the page for this mod out of respect for subscribers and those honest developers who developed the game before the stage of introducing paid mods. Now the developer is deceiving players. The game is not updating. In the two years since the release of version 1.4, the game could have been greatly improved. But the developer added one tool from AllovTool and a terrible paid mod for the price of the game. This is a real shame.**
 
 [ Prosthetics and syrgery for animals ]				
 	 
@@ -46,6 +46,7 @@ The mod works on old saves and does not require a new game. The mod is compatibl
 
 **SIMPLE PROSTHESES [80% efficiency] - [Cost range: 15-25 steel, 1-2 components]**
 ![Image](https://i.imgur.com/xxph5Xw.png)
+
  - Prosthetic animal leg 5 DPS
  - Prosthetic animal spine
  - Prosthetic animal eye
@@ -54,6 +55,7 @@ The mod works on old saves and does not require a new game. The mod is compatibl
 ____________________________________________________________
 **BIONIC PROSTHESES [125% efficiency] - [Cost range: 10-30 plasteel, 1-3 advanced component] + additional bonuses.**
 ![Image](https://i.imgur.com/BTZOkJu.png)
+
  - Bionic animal leg +5% work, 9 DPS.
  - Bionic animal spine +15% work
  - Bionic animal eye
@@ -61,6 +63,7 @@ ____________________________________________________________
  - Animal brain implant +25% hearing
 **BIONIC ORGANS [125% efficiency] - [Cost: 5 plasteel, 1 component, 1 advanced component]**
 ![Image](https://i.imgur.com/8d59FXf.png)
+
  - Bionic animal heart
  - Bionic animal lung
  - Bionic animal kidney
@@ -70,6 +73,7 @@ ____________________________________________________________
 ____________________________________________________________
  **ARCHOTECH PROSTHESES [200% efficiency] - [Cannot craft. Market value of 1100-1500]**
 ![Image](https://i.imgur.com/kyulEYT.png)
+
  - Archotech animal leg +20% work, 18 DPS
  - Archotech animal spine +15% * (work, breathing, blood circulation, metabolism, nutrition, blood filtration)
  - Archotech animal eye
@@ -82,17 +86,40 @@ ____________________________________________________________
 
  -Distinct from prostheses. They do not replace part of the body, but are implanted into it, like chips. 
  A complete set of combat enhancers will significantly increase the survival of the animal in combat.
- But this does not mean that your elephant with 
+ But this does not mean that your elephant with combat amplifiers alone will put a whole raid of pirates in an open field.
+  X / Y / Z - Armor: Sharp / Heating / Blunt.
+![Image](https://i.imgur.com/F0kN8JV.png)
+
+ - Animal body battle booster - Armor: 90% / 50% / 70%
+ - Animal head battle booster - Armor: 50% / 30% / 40%
+ - Animal neck battle booster - Armor: 40% / 20% / 30%
+(Skill crafting to create: 10. Skill medicine for installation: 8)
+
+
+ 
+ LIST OF OPERATIONS:
+____________________________________________________________
+
+✚ RESTORE PART OF THE BODY: [Cost: 3 medicine, 15 synthread] Required medicine skill for installation: 5
+ 
+✚ TREAT THE PART OF THE BODY: [Cost: 3 medicine, 15 synthread] Required medicine skill for installation: 5
+
+✚ TREAT DISEASE: [Cost: 4 medicine, 20 synthread] Required medicine skill to install: 5
+ 
+✚ TREAT SERIOUS DISEASE: [Cost: 5 medicine, 25 synthread] Required medicine skill for installation: 8
 
 ![Image](https://i.imgur.com/PwoNOj4.png)
 
 
+
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using [https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] or the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404](Uploader) and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use [https://github.com/RimSort/RimSort/releases/latest](RimSort) to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
+[![Image](https://img.shields.io/github/v/release/emipa606/CyberFauna?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3263134806) | tags:  enhancements

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: <color=#828ddd>Animal Bionics</color> -->
+  <AdvancedProtsAnimalsCF.label>&lt;color=#828ddd>Animal Bionics&lt;/color></AdvancedProtsAnimalsCF.label>
+  <!-- EN: The research unlocks advanced bionic parts and organs for animals. -->
+  <AdvancedProtsAnimalsCF.description>The research unlocks advanced bionic parts and organs for animals.</AdvancedProtsAnimalsCF.description>
+  <!-- EN: <color=#d3308f>Battle boosters</color> -->
+  <BattleBoostersAnimalsCF.label>&lt;color=#d3308f>Battle boosters&lt;/color></BattleBoostersAnimalsCF.label>
+  <!-- EN: Allows to make body part battle boosters - enhancers which increase damage resistance of an animal by partly metallizing its bones and tissues. -->
+  <BattleBoostersAnimalsCF.description>Allows to make body part battle boosters - enhancers which increase damage resistance of an animal by partly metallizing its bones and tissues.</BattleBoostersAnimalsCF.description>
+  <!-- EN: <color=#84b0e0>Animal Prosthetics</color> -->
+  <SimpleProtsAnimalsCF.label>&lt;color=#84b0e0>Animal Prosthetics&lt;/color></SimpleProtsAnimalsCF.label>
+  <!-- EN: Unlocks construction of an animal lab, allowing to make simple animal prostheses. -->
+  <SimpleProtsAnimalsCF.description>Unlocks construction of an animal lab, allowing to make simple animal prostheses.</SimpleProtsAnimalsCF.description>
+</LanguageData>

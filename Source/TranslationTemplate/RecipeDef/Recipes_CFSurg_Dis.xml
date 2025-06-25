@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: <color=#d4ffa3>Heal body part</color> -->
+  <CureBodyPartA_CF.label>&lt;color=#d4ffa3>Heal body part&lt;/color></CureBodyPartA_CF.label>
+  <!-- EN: Heal animal body part using medicine and cloth -->
+  <CureBodyPartA_CF.description>Heal animal body part using medicine and cloth</CureBodyPartA_CF.description>
+  <!-- EN: Healing body part -->
+  <CureBodyPartA_CF.jobString>Healing body part</CureBodyPartA_CF.jobString>
+  <!-- EN: <color=#d4ffa3>Heal body part</color> -->
+  <CureBodyPartE_CF.label>&lt;color=#d4ffa3>Heal body part&lt;/color></CureBodyPartE_CF.label>
+  <!-- EN: Heal animal body part using medicine and cloth -->
+  <CureBodyPartE_CF.description>Heal animal body part using medicine and cloth</CureBodyPartE_CF.description>
+  <!-- EN: Healing body part -->
+  <CureBodyPartE_CF.jobString>Healing body part</CureBodyPartE_CF.jobString>
+  <!-- EN: <color=#d4ffa3>Heal body part</color> -->
+  <CureBodyPartI_CF.label>&lt;color=#d4ffa3>Heal body part&lt;/color></CureBodyPartI_CF.label>
+  <!-- EN: Heal animal body part using medicine and cloth -->
+  <CureBodyPartI_CF.description>Heal animal body part using medicine and cloth</CureBodyPartI_CF.description>
+  <!-- EN: Healing body part -->
+  <CureBodyPartI_CF.jobString>Healing body part</CureBodyPartI_CF.jobString>
+  <!-- EN: <color=#d4ffa3>Heal body part</color> -->
+  <CureBodyPartO_CF.label>&lt;color=#d4ffa3>Heal body part&lt;/color></CureBodyPartO_CF.label>
+  <!-- EN: Heal animal body part using medicine and cloth -->
+  <CureBodyPartO_CF.description>Heal animal body part using medicine and cloth</CureBodyPartO_CF.description>
+  <!-- EN: Healing body part -->
+  <CureBodyPartO_CF.jobString>Healing body part</CureBodyPartO_CF.jobString>
+  <!-- EN: <color=#d4ffa3>Heal body part</color> -->
+  <CureBodyPartP_CF.label>&lt;color=#d4ffa3>Heal body part&lt;/color></CureBodyPartP_CF.label>
+  <!-- EN: Heal animal body part using medicine and cloth -->
+  <CureBodyPartP_CF.description>Heal animal body part using medicine and cloth</CureBodyPartP_CF.description>
+  <!-- EN: Healing body part -->
+  <CureBodyPartP_CF.jobString>Healing body part</CureBodyPartP_CF.jobString>
+  <!-- EN: <color=#d4ffa3>Heal body part</color> -->
+  <CureBodyPartQ_CF.label>&lt;color=#d4ffa3>Heal body part&lt;/color></CureBodyPartQ_CF.label>
+  <!-- EN: Heal animal body part using medicine and cloth -->
+  <CureBodyPartQ_CF.description>Heal animal body part using medicine and cloth</CureBodyPartQ_CF.description>
+  <!-- EN: Healing body part -->
+  <CureBodyPartQ_CF.jobString>Healing body part</CureBodyPartQ_CF.jobString>
+  <!-- EN: <color=#d4ffa3>Heal body part</color> -->
+  <CureBodyPartR_CF.label>&lt;color=#d4ffa3>Heal body part&lt;/color></CureBodyPartR_CF.label>
+  <!-- EN: Heal animal body part using medicine and cloth -->
+  <CureBodyPartR_CF.description>Heal animal body part using medicine and cloth</CureBodyPartR_CF.description>
+  <!-- EN: Healing body part -->
+  <CureBodyPartR_CF.jobString>Healing body part</CureBodyPartR_CF.jobString>
+  <!-- EN: <color=#d4ffa3>Heal body part</color> -->
+  <CureBodyPartS_CF.label>&lt;color=#d4ffa3>Heal body part&lt;/color></CureBodyPartS_CF.label>
+  <!-- EN: Heal animal body part using medicine and cloth -->
+  <CureBodyPartS_CF.description>Heal animal body part using medicine and cloth</CureBodyPartS_CF.description>
+  <!-- EN: Healing body part -->
+  <CureBodyPartS_CF.jobString>Healing body part</CureBodyPartS_CF.jobString>
+  <!-- EN: <color=#d4ffa3>Heal body part</color> -->
+  <CureBodyPartT_CF.label>&lt;color=#d4ffa3>Heal body part&lt;/color></CureBodyPartT_CF.label>
+  <!-- EN: Heal animal body part using medicine and cloth -->
+  <CureBodyPartT_CF.description>Heal animal body part using medicine and cloth</CureBodyPartT_CF.description>
+  <!-- EN: Healing body part -->
+  <CureBodyPartT_CF.jobString>Healing body part</CureBodyPartT_CF.jobString>
+  <!-- EN: <color=#d4ffa3>Heal body part</color> -->
+  <CureBodyPartU_CF.label>&lt;color=#d4ffa3>Heal body part&lt;/color></CureBodyPartU_CF.label>
+  <!-- EN: Heal animal body part using medicine and cloth -->
+  <CureBodyPartU_CF.description>Heal animal body part using medicine and cloth</CureBodyPartU_CF.description>
+  <!-- EN: Healing body part -->
+  <CureBodyPartU_CF.jobString>Healing body part</CureBodyPartU_CF.jobString>
+  <!-- EN: <color=#d4ffa3>Heal body part</color> -->
+  <CureBodyPartW_CF.label>&lt;color=#d4ffa3>Heal body part&lt;/color></CureBodyPartW_CF.label>
+  <!-- EN: Heal animal body part using medicine and cloth -->
+  <CureBodyPartW_CF.description>Heal animal body part using medicine and cloth</CureBodyPartW_CF.description>
+  <!-- EN: Healing body part -->
+  <CureBodyPartW_CF.jobString>Healing body part</CureBodyPartW_CF.jobString>
+  <!-- EN: <color=#d4ffa3>Heal body part</color> -->
+  <CureBodyPartY_CF.label>&lt;color=#d4ffa3>Heal body part&lt;/color></CureBodyPartY_CF.label>
+  <!-- EN: Heal animal body part using medicine and cloth -->
+  <CureBodyPartY_CF.description>Heal animal body part using medicine and cloth</CureBodyPartY_CF.description>
+  <!-- EN: Healing body part -->
+  <CureBodyPartY_CF.jobString>Healing body part</CureBodyPartY_CF.jobString>
+  <!-- EN: <color=#fffa9e>Сure illness</color> -->
+  <CureIllnessE_CF.label>&lt;color=#fffa9e>Сure illness&lt;/color></CureIllnessE_CF.label>
+  <!-- EN: Сure animal illness using medicine and cloth -->
+  <CureIllnessE_CF.description>Сure animal illness using medicine and cloth</CureIllnessE_CF.description>
+  <!-- EN: Healing illness -->
+  <CureIllnessE_CF.jobString>Healing illness</CureIllnessE_CF.jobString>
+  <!-- EN: <color=#fffa9e>Сure illness</color> -->
+  <CureIllnessQ_CF.label>&lt;color=#fffa9e>Сure illness&lt;/color></CureIllnessQ_CF.label>
+  <!-- EN: Сure animal illness using medicine and cloth -->
+  <CureIllnessQ_CF.description>Сure animal illness using medicine and cloth</CureIllnessQ_CF.description>
+  <!-- EN: Healing illness -->
+  <CureIllnessQ_CF.jobString>Healing illness</CureIllnessQ_CF.jobString>
+  <!-- EN: <color=#fffa9e>Сure illness</color> -->
+  <CureIllnessR_CF.label>&lt;color=#fffa9e>Сure illness&lt;/color></CureIllnessR_CF.label>
+  <!-- EN: Сure animal illness using medicine and cloth -->
+  <CureIllnessR_CF.description>Сure animal illness using medicine and cloth</CureIllnessR_CF.description>
+  <!-- EN: Healing illness -->
+  <CureIllnessR_CF.jobString>Healing illness</CureIllnessR_CF.jobString>
+  <!-- EN: <color=#fffa9e>Сure illness</color> -->
+  <CureIllnessT_CF.label>&lt;color=#fffa9e>Сure illness&lt;/color></CureIllnessT_CF.label>
+  <!-- EN: Сure animal illness using medicine and cloth -->
+  <CureIllnessT_CF.description>Сure animal illness using medicine and cloth</CureIllnessT_CF.description>
+  <!-- EN: Healing illness -->
+  <CureIllnessT_CF.jobString>Healing illness</CureIllnessT_CF.jobString>
+  <!-- EN: <color=#fffa9e>Сure illness</color> -->
+  <CureIllnessU_CF.label>&lt;color=#fffa9e>Сure illness&lt;/color></CureIllnessU_CF.label>
+  <!-- EN: Сure animal illness using medicine and cloth -->
+  <CureIllnessU_CF.description>Сure animal illness using medicine and cloth</CureIllnessU_CF.description>
+  <!-- EN: Healing illness -->
+  <CureIllnessU_CF.jobString>Healing illness</CureIllnessU_CF.jobString>
+  <!-- EN: <color=#fffa9e>Сure illness</color> -->
+  <CureIllnessW_CF.label>&lt;color=#fffa9e>Сure illness&lt;/color></CureIllnessW_CF.label>
+  <!-- EN: Сure animal illness using medicine and cloth -->
+  <CureIllnessW_CF.description>Сure animal illness using medicine and cloth</CureIllnessW_CF.description>
+  <!-- EN: Healing illness -->
+  <CureIllnessW_CF.jobString>Healing illness</CureIllnessW_CF.jobString>
+  <!-- EN: <color=#fffa9e>Сure illness</color> -->
+  <CureIllnessY_CF.label>&lt;color=#fffa9e>Сure illness&lt;/color></CureIllnessY_CF.label>
+  <!-- EN: Сure animal illness using medicine and cloth -->
+  <CureIllnessY_CF.description>Сure animal illness using medicine and cloth</CureIllnessY_CF.description>
+  <!-- EN: Healing illness -->
+  <CureIllnessY_CF.jobString>Healing illness</CureIllnessY_CF.jobString>
+  <!-- EN: <color=#ffde5a>Сure serious illness</color> -->
+  <CureSeriousIllnessE_CF.label>&lt;color=#ffde5a>Сure serious illness&lt;/color></CureSeriousIllnessE_CF.label>
+  <!-- EN: Сure serious animal illness using medicine and cloth -->
+  <CureSeriousIllnessE_CF.description>Сure serious animal illness using medicine and cloth</CureSeriousIllnessE_CF.description>
+  <!-- EN: Healing serious illness -->
+  <CureSeriousIllnessE_CF.jobString>Healing serious illness</CureSeriousIllnessE_CF.jobString>
+  <!-- EN: <color=#ffde5a>Сure serious illness</color> -->
+  <CureSeriousIllnessQ_CF.label>&lt;color=#ffde5a>Сure serious illness&lt;/color></CureSeriousIllnessQ_CF.label>
+  <!-- EN: Сure serious animal illness using medicine and cloth -->
+  <CureSeriousIllnessQ_CF.description>Сure serious animal illness using medicine and cloth</CureSeriousIllnessQ_CF.description>
+  <!-- EN: Healing serious illness -->
+  <CureSeriousIllnessQ_CF.jobString>Healing serious illness</CureSeriousIllnessQ_CF.jobString>
+  <!-- EN: <color=#ffde5a>Сure serious illness</color> -->
+  <CureSeriousIllnessR_CF.label>&lt;color=#ffde5a>Сure serious illness&lt;/color></CureSeriousIllnessR_CF.label>
+  <!-- EN: Сure serious animal illness using medicine and cloth -->
+  <CureSeriousIllnessR_CF.description>Сure serious animal illness using medicine and cloth</CureSeriousIllnessR_CF.description>
+  <!-- EN: Healing serious illness -->
+  <CureSeriousIllnessR_CF.jobString>Healing serious illness</CureSeriousIllnessR_CF.jobString>
+  <!-- EN: <color=#ffde5a>Сure serious illness</color> -->
+  <CureSeriousIllnessT_CF.label>&lt;color=#ffde5a>Сure serious illness&lt;/color></CureSeriousIllnessT_CF.label>
+  <!-- EN: Сure serious animal illness using medicine and cloth -->
+  <CureSeriousIllnessT_CF.description>Сure serious animal illness using medicine and cloth</CureSeriousIllnessT_CF.description>
+  <!-- EN: Healing serious illness -->
+  <CureSeriousIllnessT_CF.jobString>Healing serious illness</CureSeriousIllnessT_CF.jobString>
+  <!-- EN: <color=#ffde5a>Сure serious illness</color> -->
+  <CureSeriousIllnessW_CF.label>&lt;color=#ffde5a>Сure serious illness&lt;/color></CureSeriousIllnessW_CF.label>
+  <!-- EN: Сure serious animal illness using medicine and cloth -->
+  <CureSeriousIllnessW_CF.description>Сure serious animal illness using medicine and cloth</CureSeriousIllnessW_CF.description>
+  <!-- EN: Healing serious illness -->
+  <CureSeriousIllnessW_CF.jobString>Healing serious illness</CureSeriousIllnessW_CF.jobString>
+  <!-- EN: <color=#80ffd2>Repair body part</color> -->
+  <RepairBodyPart_CF.label>&lt;color=#80ffd2>Repair body part&lt;/color></RepairBodyPart_CF.label>
+  <!-- EN: Repair animal body part using medicine and cloth -->
+  <RepairBodyPart_CF.description>Repair animal body part using medicine and cloth</RepairBodyPart_CF.description>
+  <!-- EN: Repairing body part -->
+  <RepairBodyPart_CF.jobString>Repairing body part</RepairBodyPart_CF.jobString>
+</LanguageData>
