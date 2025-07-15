@@ -4,6 +4,12 @@
   "CanRemove": "2",
   "SocialImageSet": true,
   "PreviewVersion": "1.6",
-  "LastXmlCleaning": "2025-06-25T19:42:51.8760362+02:00",
-  "SearchTags": " enhancements"
+  "LastXmlCleaning": "2025-07-15T17:10:19.0258148+02:00",
+  "SearchTags": " enhancements",
+  "Patches": true,
+  "Defs": true,
+  "Assemblies": true,
+  "LinesOfCode": 8922,
+  "LinesOfXML": 95006,
+  "CodeBaseSize": 79
 }
